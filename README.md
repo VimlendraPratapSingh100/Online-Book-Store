@@ -50,5 +50,5 @@ The Online Book Store project is a SQL-based data analysis project developed usi
 - Data Reporting
 
 👤 Author
-Aspiring Data Analyst
+Vimlendra Pratap Singh 
 
